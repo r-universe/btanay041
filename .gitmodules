@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "uncertR"]
 	path = uncertR
-	url = https://github.com/cran/uncertR
+	url = https://github.com/btanay041/uncertr
